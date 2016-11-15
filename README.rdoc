@@ -14,13 +14,13 @@ Another JRuby Postgres adapter is {jdbc-postgres}[https://github.com/jruby/activ
 
 = Documentation
 
-For documentation please refair to the MRI pg gem docs which you can
+For documentation please refer to the MRI pg gem docs which you can
 find {here}[http://www.rubydoc.info/gems/pg/0.17.1/PG]. The original
 ruby-pg project can be found {here on github}[https://github.com/ged/ruby-pg].
 
 == Build Status
 
-{<img src="https://travis-ci.org/ged/ruby-pg.png?branch=master" alt="Build Status" />}[https://travis-ci.org/ged/ruby-pg]
+{<img src="https://travis-ci.org/donv/jruby-pg.png?branch=master" alt="Build Status" />}[https://travis-ci.org/donv/jruby-pg]
 
 
 == Requirements
